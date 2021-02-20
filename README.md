@@ -18,3 +18,5 @@ You can find additional information in the [Software AG TECHcommunity](http://te
 _________________
 Contact us at [TECHcommunity](mailto:technologycommunity@softwareag.com?subject=Github/SoftwareAG) if you have any questions.
 
+# AOH-SAG
+Repository eingerichtet
